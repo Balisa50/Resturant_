@@ -66,7 +66,7 @@ The following are the main projects and workflows I've worked on:
 
 Upcoming Updates
 
-This repository is still under construction. I will be adding more advanced topics and expanding on the following areas:
+This repository is still under construction. I will be adding more advanced topics and expanding on the following areas while i keep learning:
 
     Deep Learning: Exploring neural networks with TensorFlow and Keras.
 
